@@ -1,0 +1,2 @@
+// Thor Patcher - Lista Patch
+[1] data/patch_test.thor
