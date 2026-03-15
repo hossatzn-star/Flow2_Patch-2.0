@@ -2,6 +2,7 @@
   {
     "name": "Metin2Debug.exe",
     "path": "/",
-    "hash": "123456"
+    "hash": "123456",
+    "size": 1000
   }
 ]
