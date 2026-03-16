@@ -1,0 +1,11 @@
+# Escludi i file sorgente in chiaro (MOLTO IMPORTANTE)
+Source/
+
+# Escludi file temporanei e di sistema
+Thumbs.db
+*.bak
+*.tmp
+.vs/
+
+# Escludi gli eseguibili se non vuoi che stiano su GitHub
+PackMakerLite.exe
