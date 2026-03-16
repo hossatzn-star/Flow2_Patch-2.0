@@ -1,3 +1,0 @@
-WONEXCHANGE_TITLE	ÊÍזםב ÇבÚדבÇÊ 
-WONEXCHANGE_TITLE_SELL	ÊÈÏםב זזה 
-WONEXCHANGE_TITLE_BUY	ÊÈÏםב םÇהÛ 
